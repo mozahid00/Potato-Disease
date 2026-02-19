@@ -136,4 +136,4 @@ Improve generalization with more augmentation
 
 Your Name: S M Mozahidul Haque
 LinkedIn: www.linkedin.com/in/mozahidul-haque
-GitHub: https://github.com/mozahid00/ML-AI
+GitHub: https://github.com/mozahid00/Potato Disease
