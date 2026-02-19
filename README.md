@@ -16,7 +16,7 @@ The model is trained on the PlantVillage dataset and implemented using TensorFlo
 
 Dataset used: PlantVillage (Potato subset)
 
-Source: Kaggle
+Source: Kaggle (https://www.kaggle.com/datasets/arjuntejaswi/plant-village/data)
 
 The dataset contains labeled images organized in folders:
 
